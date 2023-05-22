@@ -3,15 +3,17 @@
 
 My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity.
 
-<span>
-- :telescope: I’m currently working on amazing things
-- :seedling: I’m currently learning a lot of fun things
-- :dancers: I’m looking to collaborate on all sort of interesting thing
-- :speech_bubble: Ask me about interesting things
-- :mailbox: How to reach me: [@ChinonsoIdogwu](https://twitter.com/ChinonsoIdogwu)
-- :smile: Pronouns: he/him
-- :zap: Fun fact: I love beautiful things and places.
-</span>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+<diV align="left">
+  <p> - :telescope: I’m currently working on amazing things </p>
+  <p> - :seedling: I’m currently learning a lot of fun things </p>
+  <p> - :dancers: I’m looking to collaborate on all sort of interesting thing </p>
+  <p> - :speech_bubble: Ask me about interesting things </p>
+  <p> - :mailbox: How to reach me: <a href="https://twitter.com/ChinonsoIdogwu" target="blank"> [@Twitter] </a>  <a href="https://www.linkedin.com/in/idogwu-chinonso-a9117b1a3/" target="blank"> [@LinkedIn] </a></p>
+  <p> - :smile: Pronouns: he/him </p>
+  <p> - :zap: Fun fact: I love beautiful things and places. </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonnyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="Nonnyjoe" /> </p>
 
