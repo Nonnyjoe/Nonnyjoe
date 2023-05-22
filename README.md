@@ -3,7 +3,7 @@
 
 My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity.
 
-<p>
+<span>
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m currently learning a lot of fun things
 - :dancers: I’m looking to collaborate on all sort of interesting thing
@@ -11,7 +11,7 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 - :mailbox: How to reach me: [@ChinonsoIdogwu](https://twitter.com/ChinonsoIdogwu)
 - :smile: Pronouns: he/him
 - :zap: Fun fact: I love beautiful things and places.
-</p>
+</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonnyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="Nonnyjoe" /> </p>
 
