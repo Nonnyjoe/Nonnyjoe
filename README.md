@@ -39,7 +39,6 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nonnyjoe&show_icons=true&locale=en&layout=compact" alt="Nonnyjoe" /></p>
-&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nonnyjoe&theme=dark)](https://git.io/streak-stats)
 
