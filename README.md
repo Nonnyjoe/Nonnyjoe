@@ -1,4 +1,4 @@
-<a href="https://ibb.co/GnzvWSW"><img src="https://i.ibb.co/9cQ9b5b/portfolio.png" alt="portfolio" border="0" /></a>
+<a href="https://ibb.co/GnzvWSW"><img src="https://i.ibb.co/9cQ9b5b/portfolio.png" alt="portfolio" border="0" width="100%" /></a>
 
 ### Hello there :wave:
 ### Welcome to my page 🤗
