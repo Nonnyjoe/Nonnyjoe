@@ -32,5 +32,6 @@ My name is **IDOGWU CHINONSO**, I'm learning javascript and solidity
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iv7dev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nonnyjoe
+&theme=dark)](https://git.io/streak-stats)
 
