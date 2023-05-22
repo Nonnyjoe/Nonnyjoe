@@ -9,7 +9,7 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
   <p> - :telescope: I’m currently working on amazing things </p>
   <p> - :seedling: I’m currently learning a lot of fun things </p>
   <p> - :dancers: I’m looking to collaborate on all sort of interesting thing </p>
-  <p> - :speech_bubble: Ask me about interesting things </p>
+  <p> - 💬 Ask me about web and blockchain development </p>
   <p> - :mailbox: How to reach me: <a href="https://twitter.com/ChinonsoIdogwu" target="blank"> [@Twitter] </a>  <a href="https://www.linkedin.com/in/idogwu-chinonso-a9117b1a3/" target="blank"> [@LinkedIn] </a></p>
   <p> - :smile: Pronouns: he/him </p>
   <p> - :zap: Fun fact: I love beautiful things and places. </p>
