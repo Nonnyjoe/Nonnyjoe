@@ -1,7 +1,7 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria ,I'm currently learning javascript, Rust and solidity
+My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&theme=radical)
 
