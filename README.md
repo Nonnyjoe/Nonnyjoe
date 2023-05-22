@@ -7,9 +7,9 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <diV align="left">
-  <p> - :telescope: I’m currently working on amazing things </p>
-  <p> - :seedling: I’m currently learning a lot of fun things </p>
-  <p> - :dancers: I’m looking to collaborate on all sort of interesting thing </p>
+  <p> - :telescope: I’m currently working on amazing Projects relating to web3 and blockchain </p>
+  <p> - :seedling: I’m currently learning Javascript, Solidity and Rust </p>
+  <p> - :dancers: I’m looking to collaborate on all sort of interesting Projects </p>
   <p> - 💬 Ask me about web and blockchain development </p>
   <p> - :mailbox: How to reach me: <a href="https://twitter.com/ChinonsoIdogwu" target="blank"> [@Twitter] </a>  <a href="https://www.linkedin.com/in/idogwu-chinonso-a9117b1a3/" target="blank"> [@LinkedIn] </a></p>
   <p> - :smile: Pronouns: he/him </p>
