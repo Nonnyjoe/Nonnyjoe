@@ -12,6 +12,8 @@ My name is **IDOGWU CHINONSO**, I'm learning javascript and solidity
 - :mailbox: How to reach me: [@ChinonsoIdogwu](https://twitter.com/ChinonsoIdogwu)
 - :smile: Pronouns: he/him
 - :zap: Fun fact: I love beautiful things and places
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scarfacedotcom&label=Profile%20views&color=0e75b6&style=flat" alt="scarfacedotcom" /> </p>
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,6 +33,8 @@ My name is **IDOGWU CHINONSO**, I'm learning javascript and solidity
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&locale=en" alt="Nonnyjoe" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nonnyjoe&theme=dark)](https://git.io/streak-stats)
 
