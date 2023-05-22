@@ -1,10 +1,9 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity
+My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity.
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&theme=radical)
-
+<p>
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m currently learning a lot of fun things
 - :dancers: I’m looking to collaborate on all sort of interesting thing
@@ -12,8 +11,11 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 - :mailbox: How to reach me: [@ChinonsoIdogwu](https://twitter.com/ChinonsoIdogwu)
 - :smile: Pronouns: he/him
 - :zap: Fun fact: I love beautiful things and places.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonnyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="Nonnyjoe" /> </p>
+
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
