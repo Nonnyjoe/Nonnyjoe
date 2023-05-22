@@ -11,9 +11,9 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 - :speech_bubble: Ask me about interesting things
 - :mailbox: How to reach me: [@ChinonsoIdogwu](https://twitter.com/ChinonsoIdogwu)
 - :smile: Pronouns: he/him
-- :zap: Fun fact: I love beautiful things and places
-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scarfacedotcom&label=Profile%20views&color=0e75b6&style=flat" alt="scarfacedotcom" /> </p>
+- :zap: Fun fact: I love beautiful things and places.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonnyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="Nonnyjoe" /> </p>
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
