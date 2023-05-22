@@ -40,6 +40,6 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nonnyjoe&show_icons=true&locale=en&layout=compact" alt="Nonnyjoe" /></p>
 &nbsp;
-</br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nonnyjoe&theme=dark)](https://git.io/streak-stats)
 
