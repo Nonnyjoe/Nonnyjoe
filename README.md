@@ -1,6 +1,6 @@
 <a href="https://ibb.co/GnzvWSW"><img src="https://i.ibb.co/9cQ9b5b/portfolio.png" alt="portfolio" border="0" width="100%" /></a>
 
-### Hello there :wave:
+### Hello There....<img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29">
 ### Welcome to my page 🤗
 
 My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring BlockChain developer from Nigeria, I'm currently learning javascript, Rust and solidity.
