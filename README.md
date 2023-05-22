@@ -1,5 +1,4 @@
-### Hello There....<img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29">
-### Welcome to my page 🤗
+### Welcome to my page <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29">
 
 <a href="https://ibb.co/GnzvWSW"><img src="https://i.ibb.co/9cQ9b5b/portfolio.png" alt="portfolio" border="0" width="100%" /></a>
 
