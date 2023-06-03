@@ -18,7 +18,10 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonnyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="Nonnyjoe" /> </p>
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/613aa991-d92d-49a8-b9d0-9efec9805d40.svg)](https://wakatime.com/@613aa991-d92d-49a8-b9d0-9efec9805d40)
+
+
+![Idogwu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonnyjoe&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -47,3 +50,5 @@ My name is **IDOGWU CHINONSO**, A passionate Software developer and an Aspiring 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nonnyjoe&theme=dark)](https://git.io/streak-stats)
 
+
+<img src="https://wakatime.com/share/@Nonnyjoe/bf23b442-edb9-48ce-89dc-f821d5570b4b.svg" />
